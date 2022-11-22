@@ -1,0 +1,20 @@
+body{
+    padding-right: 380 px;
+    background: #fff;
+}
+.container{
+    width: 1900px;
+    display: inline;
+    margin-left: 380px;
+}
+
+.block{
+    width: 240px;
+    margin-left: 380px;
+        
+}
+
+h2{
+    color: greenyellow;
+    text-align: center;
+}
