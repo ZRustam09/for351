@@ -1,4 +1,28 @@
-body {
-    background-color: burlywood;
+*{
+    padding: 0;
     margin: 0;
 }
+#b_1{
+    background-image: url(../1625159621_36-phonoteka-org-p-les-i-reka-na-rabochii-stol-krasivo-oboi-38.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    }
+.container{
+    width: 1300px;
+    background-color:white;
+}
+body {
+background-color: rebeccapurple;
+}
+header{
+	width: 1250px;
+	padding: 20px;
+	background-color: red;
+    float: right;
+	margin-left: 40px;
+	font-size: 30px;
+    text-align: right;
+}
+
+	
