@@ -1,4 +1,4 @@
-git remote add origin <Ссылка на репозиторий> </br>
+ <Ссылка на репозиторий> </br>
 git init <br/>
 git branch -m <ФамилияИ> <br/>
 git add . <br/>
