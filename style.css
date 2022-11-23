@@ -1,3 +1,19 @@
 *{
-    background-color: black;
+    padding: 0;
+    margin: 0;
+    background-color:grey;
 }
+
+.block{
+    text-align: center;
+    color: white;
+    margin-top: 20%;
+    padding-bottom: 30px;
+}
+
+.kn{
+    text-align: center;
+}
+
+
+
