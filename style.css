@@ -1,3 +1,41 @@
-body{
-    background-color: rgb(231, 166, 166);
+.cont{
+    margin: 0px;
+    padding: 0px;
+    height: 935px;
+    width: 1550px;
+    background-color: #333333;
+}
+.text h1{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-size: 96px;
+    color: white;
+}
+.box{
+    position: relative;
+    left: 805px;
+    top:220px;
+    width: 240px;
+    height: 3px;
+    background-color: chartreuse;
+}
+.text h2{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    font-size: 48px;
+    color: white;
+}
+.button1{
+    position: relative;
+    text-align: center;
+    top: 330px;
+    right: 63px;
+}
+.button2{
+    position: relative;
+    text-align: center;
+    top: 310px;
+    left: 65px;
 }
