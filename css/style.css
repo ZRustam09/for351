@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(47, 49, 49);
+}
+.victoria {
+    height: 300;
+}
+.victoria h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+}
+.track img{
+    margin-left: 550px;
+    margin-top:-150px;
+    height: 3px;
+}
+.victoria h2{
+    text-align: center;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+.clear{
+    text-align: center;
+    margin-right: 200px;
+}
+.vic{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: -21px;
+}
